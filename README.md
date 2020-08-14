@@ -50,7 +50,7 @@ Django全端製作一個購物網站
 ![image](https://github.com/valosz66666/django_shop_web/blob/master/images/%E9%A6%96%E9%A0%81.png)
 
 2.登入
-![image](https://github.com/valosz66666/django_shop_web/blob/master/images/images/%E7%99%BB%E5%85%A5.png)
+![image](https://github.com/valosz66666/django_shop_web/blob/master/images/%E7%99%BB%E5%85%A5.png)
 
 3.註冊
 ![image](https://github.com/valosz66666/django_shop_web/blob/master/images/%E8%A8%BB%E5%86%8A.png)
